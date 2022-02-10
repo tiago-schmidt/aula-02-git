@@ -8,3 +8,4 @@ Jô soares
 
 Pedro José
  
+Rafael Lazzari
