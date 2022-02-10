@@ -5,3 +5,5 @@ Tiago Schmidt
 Rafael Lazzari
 Joaozinho da Silva
 Jô soares
+
+Pedro José
